@@ -2,8 +2,8 @@
 
 Dois simples projetos realizados no curso de "introdução ao JavaScript".
 
-- [Contador]()
-- [To-Do-List]()
+- [Contador](https://github.com/jorge-lusca/bootcamp-dio-tqi-fullstack/tree/main/introducao-ao-javascript/contador)
+- [To-Do-List](https://github.com/jorge-lusca/bootcamp-dio-tqi-fullstack/tree/main/introducao-ao-javascript/to-do-list)
 
 ## Contador
 
