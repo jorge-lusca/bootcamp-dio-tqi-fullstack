@@ -26,7 +26,7 @@
 
 * Para escrever em itálico: `*texto* ou _texto_`
 
-##LISTAS
+## LISTAS
 
 - Temos as listas ordenadas em não ordenadas em markdown;
 
