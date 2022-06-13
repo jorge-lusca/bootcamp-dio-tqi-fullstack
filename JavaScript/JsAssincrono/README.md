@@ -11,4 +11,4 @@ Nesta atividade, vamos criar uma página que carrega fotos aleatórias de gatinh
 
 - Aproveitando o que foi ensinado na aula, fiz uma pokedex utilizando a [pokeAPI](https://pokeapi.co/), apresentando os 150 primeiros pokemons e os seus tipos.
 
-![Pokedex](https://github.com/jorge-lusca/bootcamp-dio-tqi-fullstack/tree/main/JavaScript/JsAssincrono/pokedex-master/pokedex.gif)
+![Pokedex](https://github.com/jorge-lusca/bootcamp-dio-tqi-fullstack/blob/main/JavaScript/JsAssincrono/pokedex.gif)
