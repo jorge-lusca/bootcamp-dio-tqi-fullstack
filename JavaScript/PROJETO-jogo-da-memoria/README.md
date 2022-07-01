@@ -1,3 +1,5 @@
+# JOGO DA MEMÓRIA
+
 ## Criação das cartas
 
 - usei como imagens as tecnologias que ando estudando atualmente
@@ -15,3 +17,5 @@
 ## Montando o tabuleiro
 
 - Para criar uma carta visual para cada modelo utilizei um loop dentro do array de cartas.
+
+![gif do jogo da memória](https://github.com/jorge-lusca/bootcamp-dio-tqi-fullstack/blob/main/JavaScript/PROJETO-jogo-da-memoria/assets/gif_jogo.gif)
