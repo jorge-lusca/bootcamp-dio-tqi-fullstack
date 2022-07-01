@@ -15,5 +15,3 @@
 ## Montando o tabuleiro
 
 - Para criar uma carta visual para cada modelo utilizei um loop dentro do array de cartas.
-
-## Bugs encontrados
